@@ -1,6 +1,6 @@
 import java.io.*;
 
-public class CalcNewValues{
+public class NewValues{
 
   public static void main(String[] args){
     //Initialize values
