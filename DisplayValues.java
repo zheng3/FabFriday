@@ -1,5 +1,5 @@
 import java.io.*;
-public class DisplayValues{
+public class Display{
   public static void main(String[] args){
     try{
       BufferedReader inputReader = new
